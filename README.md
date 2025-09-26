@@ -42,8 +42,24 @@ Index repository for all the projects I've done at the 42 school of Codam
 |:----------------------------------------------------:|:------------------------------------------------------------------:|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
 | [cub3d](https://github.com/Naji-k/cub3d) |	we learn about raycasting and try to recreate the original Wolfenstein 3d game 	|          125/100          |
 |    NetPractice   |                  NetPractice is a general practical exercise to let you discover networking. 	                 |       100/100		 |
-| CPP-Modules(C00) | This module is designed to dive into Object Oriented Programming! | 100/100 |
-| CPP-Modules(C01) | This module is designed to understand the memory allocation, reference, pointers to members and the usage of the switch in CPP. | 100/100 |
-| CPP-Modules(C02) | This module is designed to understand Ad-hoc polymorphism, overloads and orthodox canonical classes in CPP. | 100/100 |
-| CPP-Modules(C03) | This module is designed to understand Inheritance in CPP.  | 100/100 |
-| CPP-Modules(C04) | This module is designed to understand Subtype polymorphism, abstract classes and interfaces in CPP | 100/100 |
+| CPP-(C00) | dive into Object Oriented Programming! | 100/100 |
+| CPP-(C01) | memory allocation, reference, pointers to members and the usage of the switch in CPP. | 100/100 |
+| CPP-(C02) | Ad-hoc polymorphism, overloads and Orthodox Canonical class form. | 100/100 |
+| CPP-(C03) | Inheritance.  | 100/100 |
+| CPP-(C04) | Subtype polymorphism, abstract classes, interfaces | 100/100 |
+
+## Rank 5
+|                     			Name				                      |                            Description	                            |                                                                                  Mark                                                                                  |
+|:----------------------------------------------------:|:------------------------------------------------------------------:|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
+| [webserve](https://github.com/julicaro31/Webserv) | A non-blocking web server built in C++ that handles HTTP requests and responses from multiple clients, with CGI support	|          100/100          |
+|    Inception   |                  Docker, Docker-compose, setup mariadb, wordpress, nginx 	                 |       100/100		 |
+| CPP-(C05) | Exceptions | 100/100 |
+| CPP-(C06) | Casting | 100/100 |
+| CPP-(C07) | Templates. | 100/100 |
+| CPP-(C08) | Containers, iterators. | 100/100 |
+| CPP-(C09) | Templated containers, iterators, algorithms | 100/100 |
+
+## Rank 6
+|                     			Name				                      |                            Description	                            |                                                                                  Mark                                                                                  |
+|:----------------------------------------------------:|:------------------------------------------------------------------:|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
+| ft_transcendence | A web application that allows users to play a multiplayer remote Pong game, manage their profiles, and interact with other users. |  |
