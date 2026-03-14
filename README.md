@@ -62,4 +62,4 @@ Index repository for all the projects I've done at the 42 school of Codam
 ## Rank 6
 |                     			Name				                      |                            Description	                            |                                                                                  Mark                                                                                  |
 |:----------------------------------------------------:|:------------------------------------------------------------------:|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
-| [ft_transcendence](https://github.com/Soepgroente/transcendence) | A web application that allows users to play a multiplayer remote Pong game, manage their profiles, and interact with other users. | 125/100 |
+| [ft_transcendence](https://github.com/Naji-k/ft_transcendence-pong) | A web application that allows users to play a multiplayer remote Pong game, manage their profiles, and interact with other users. | 125/100 |
